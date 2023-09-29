@@ -1,7 +1,7 @@
 {
   "name": "barcode-reader",
   "version": "0.1.0",
-  "homepage": "https://minimalon.github.io",
+  "homepage": "https://minimalon.github.io/ttn",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
