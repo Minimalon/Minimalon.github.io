@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/one_time_scane/static/css/main.65a58a99.css",
+    "main.js": "/one_time_scane/static/js/main.a7ad10f7.js",
+    "static/media/ding.mp3": "/one_time_scane/static/media/ding.a5a8368be4769f240227.mp3",
+    "index.html": "/one_time_scane/index.html",
+    "main.65a58a99.css.map": "/one_time_scane/static/css/main.65a58a99.css.map",
+    "main.a7ad10f7.js.map": "/one_time_scane/static/js/main.a7ad10f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65a58a99.css",
+    "static/js/main.a7ad10f7.js"
+  ]
+}
